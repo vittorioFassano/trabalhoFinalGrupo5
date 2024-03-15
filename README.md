@@ -6,12 +6,12 @@ questões/aluno>
 4-filipe lomba
 5-tilio
 6-filipe lomba
-7-
+7-priscilla
 8-vittorio
 9-beatriz
 10-beatriz
-11-
-12-
+11-priscilla
+12-priscilla
 13-victor hugo
 14-victor hugo
 15-filipe lomba
