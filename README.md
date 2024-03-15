@@ -1,4 +1,4 @@
-# trabalhoFinalGrupo5
+# trabalhoFinalLogicaGrupo5
 questões/aluno> 
 1-tilio
 2-tilio
