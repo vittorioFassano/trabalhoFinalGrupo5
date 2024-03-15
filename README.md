@@ -9,7 +9,7 @@ questões/aluno>
 7-
 8-vittorio
 9-
-10-
+10-beatriz
 11-
 12-
 13-victor hugo
@@ -17,6 +17,6 @@ questões/aluno>
 15-filipe lomba
 16-tilio
 17-vittorio
-18-
+18-beatriz
 19-filipe lomba
 20-victor hugo
